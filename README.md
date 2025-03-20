@@ -43,7 +43,8 @@ The aim is to design and simulate a full custom 2:1 multiplexer (MUX) using Cade
 ## Circuit Diagram
 
 ### 1. Schematic of Full Custom 2:1 MUX
-*![image](https://github.com/user-attachments/assets/bd85c763-d697-4ab2-87f3-d677f24227ac)
+![WhatsApp Image 2025-03-20 at 11 50 01_ae60be98](https://github.com/user-attachments/assets/a7d2a1d1-6454-4c69-9570-e293535b34b1)
+
 
 ### 2. Transient Response Setup
 
